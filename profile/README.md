@@ -11,10 +11,11 @@ todo:
 - [Chromium](https://www.chromium.org/developers/learning-your-way-around-the-code/)
 
 doing:
+- [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
 - [Concurrent+Rust cs431](https://github.com/Lslightly-courses/cs431) <https://github.com/kaist-cp/cs431>
-- [Proof Assistant Lean](https://github.com/Lslightly-courses/lean-theorem-proving) <https://lean-lang.org/theorem_proving_in_lean4/title_page.html>
+
 
 done:
 - [Static Program Analysis Tai-e-assignments](https://github.com/Lslightly-courses/Tai-e-assignments) <https://tai-e.pascal-lab.net/>
 - [Haskell cis1940](https://github.com/Lslightly-courses/cis1940) <https://www.seas.upenn.edu/~cis1940/spring13/>
-
+- [Proof Assistant Lean](https://github.com/Lslightly-courses/lean-theorem-proving) <https://lean-lang.org/theorem_proving_in_lean4/title_page.html> Partially
