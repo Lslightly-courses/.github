@@ -14,6 +14,9 @@ todo:
 doing:
 - [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
 - [Concurrent+Rust cs431](https://github.com/Lslightly-courses/cs431) <https://github.com/kaist-cp/cs431>
+- [DynamoRIO](https://dynamorio.org/)
+- [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md)
+- Go Runtime
 
 
 done:
