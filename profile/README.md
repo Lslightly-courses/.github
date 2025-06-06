@@ -9,6 +9,7 @@ todo:
 - [Security](https://textbook.cs161.org/)
 - [Games](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/GAMES101/) or [CG](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2025_spring-summer/default.htm)
 - [Chromium](https://www.chromium.org/developers/learning-your-way-around-the-code/)
+- [Managed Runtime](https://www.wolczko.com/CS294/)
 
 doing:
 - [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
