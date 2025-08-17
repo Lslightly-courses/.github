@@ -11,7 +11,7 @@ todo:
 - [Chromium](https://www.chromium.org/developers/learning-your-way-around-the-code/)
 - [Managed Runtime](http://www.wolczko.com/CS294/index.html) or [Virtual Machines and Managed Runtimes](https://www.cs.cmu.edu/~wasm/cs17-670/fall2022/)
 - [Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
-- [Ray Tracing](https://github.com/RayTracing/raytracing.github.io)
+
 
 doing:
 - [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
@@ -25,4 +25,4 @@ done:
 - [Haskell cis1940](https://github.com/Lslightly-courses/cis1940) <https://www.seas.upenn.edu/~cis1940/spring13/>
 - [Proof Assistant Lean](https://github.com/Lslightly-courses/lean-theorem-proving) <https://lean-lang.org/theorem_proving_in_lean4/title_page.html> Partially
 - [DynamoRIO](https://dynamorio.org/) does not support HarmonyOS
-
+- [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
