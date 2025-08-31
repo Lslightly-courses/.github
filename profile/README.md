@@ -15,8 +15,6 @@ todo:
 
 doing:
 - [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
-- [Concurrent+Rust cs431](https://github.com/Lslightly-courses/cs431) <https://github.com/kaist-cp/cs431>
-- [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md)
 - Go Runtime
 
 
@@ -26,3 +24,5 @@ done:
 - [Proof Assistant Lean](https://github.com/Lslightly-courses/lean-theorem-proving) <https://lean-lang.org/theorem_proving_in_lean4/title_page.html> Partially
 - [DynamoRIO](https://dynamorio.org/) does not support HarmonyOS
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+- [Concurrent+Rust cs431](https://github.com/Lslightly-courses/cs431) <https://github.com/kaist-cp/cs431> partial
+- [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md) partial
