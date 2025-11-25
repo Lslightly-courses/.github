@@ -2,7 +2,6 @@
 todo:
 - [Reinforcement Learning](https://github.com/Lslightly-courses/CS285RL_23fall)
 - [ML Compiler](https://github.com/Lslightly-courses/mlc-notebooks)
-- [MLIR Egglog](https://github.com/Lslightly-courses/mlir-egglog)
 - [rCore OS Kernel](https://github.com/Lslightly-courses/rCore-Tutorial-v3)
 - [Pytorch Tutorial](https://github.com/Lslightly-courses/tutorials)
 - [MIT6.824 Distributed System](https://pdos.csail.mit.edu/6.824/schedule.html)
@@ -11,10 +10,13 @@ todo:
 - [Chromium](https://www.chromium.org/developers/learning-your-way-around-the-code/)
 - [Managed Runtime](http://www.wolczko.com/CS294/index.html) or [Virtual Machines and Managed Runtimes](https://www.cs.cmu.edu/~wasm/cs17-670/fall2022/)
 - [Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
+- [minimind](https://github.com/jingyaogong/minimind)
+- [MLIR Toy Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
+  - [MLIR Egglog](https://github.com/Lslightly-courses/mlir-egglog)
 
 
 doing:
-- [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
+- [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php) partial
 - Go Runtime
 
 
