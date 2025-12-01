@@ -10,7 +10,6 @@ todo:
 - [Chromium](https://www.chromium.org/developers/learning-your-way-around-the-code/)
 - [Managed Runtime](http://www.wolczko.com/CS294/index.html) or [Virtual Machines and Managed Runtimes](https://www.cs.cmu.edu/~wasm/cs17-670/fall2022/)
 - [Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
-- [minimind](https://github.com/jingyaogong/minimind). It is not learner-friendly since there are many concepts unexplained. It is a better reference than a LLM course explaining the concepts and the underlying logic of different stages of LLM.
 - [MLIR Toy Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
   - [MLIR Egglog](https://github.com/Lslightly-courses/mlir-egglog)
 
@@ -29,3 +28,4 @@ done:
 - [Concurrent+Rust cs431](https://github.com/Lslightly-courses/cs431) <https://github.com/kaist-cp/cs431> partial
 - [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md) partial
 - [Life of a pixel](https://groups.google.com/a/chromium.org/g/blink-dev/c/AK_rwEp61ME) How does web page become pixels? The underlying process of render pipeline.
+- [minimind](https://github.com/jingyaogong/minimind). It is not learner-friendly since there are many concepts unexplained. It is a better reference than a LLM course explaining the concepts and the underlying logic of different stages of LLM.
