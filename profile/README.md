@@ -12,6 +12,7 @@ todo:
 - [Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
 - [MLIR Toy Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
   - [MLIR Egglog](https://github.com/Lslightly-courses/mlir-egglog)
+- ebpf
 
 
 doing:
