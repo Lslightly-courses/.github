@@ -18,7 +18,6 @@ todo:
 
 doing:
 - [ML2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php) partial
-- Go Runtime
 
 
 done:
@@ -31,3 +30,5 @@ done:
 - [BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/README.md) partial
 - [Life of a pixel](https://groups.google.com/a/chromium.org/g/blink-dev/c/AK_rwEp61ME) How does web page become pixels? The underlying process of render pipeline.
 - [minimind](https://github.com/jingyaogong/minimind). It is not learner-friendly since there are many concepts unexplained. It is a better reference than a LLM course explaining the concepts and the underlying logic of different stages of LLM.
+- Go Runtime(optimize allocation memory fence, scheduling. The G-M-P model is similar to Rust tokio/Browser JSRuntime/JSContext/Realm architecture). 
+
