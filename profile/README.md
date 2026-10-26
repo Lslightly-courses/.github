@@ -13,6 +13,7 @@ todo:
 - [MLIR Toy Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
   - [MLIR Egglog](https://github.com/Lslightly-courses/mlir-egglog)
 - ebpf
+- 5060Ti-8G mini,tiny,atom neural-networks
 
 
 doing:
